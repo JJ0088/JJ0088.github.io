@@ -4,7 +4,7 @@ icon: fas fa-user-secret
 order: 1
 ---
 
-## ❔ Chi sono
+## ❓ Chi sono
 
 Ciao! Mi chiamo **Luigi Rutigliani** e ho una profonda passione per la **cybersecurity**.
 
