@@ -3,46 +3,80 @@ title: Whoami
 icon: fas fa-user-secret
 order: 1
 ---
----
-## Chi sono?
 
-Mi chiamo **Luigi Rutigliani**, sono un appassionato del mondo della **cybersecurity** e tutto ciò che ne compete.
-- In questo momento ho 21 anni
-- Frequento un ITS con indirizzo Cybersecurity Expert
-- Ho partecipato in due diverse competizioni nazionali di cybersecurity:
+## ❔ Chi sono
 
-    - Come capitano in: "ITS-Cyberchallenge"
-      Dove la mia squadra è arrivata tra le finaliste
+Ciao! Mi chiamo **Luigi Rutigliani** e ho una profonda passione per la **cybersecurity**.
 
-    - Come player in: "CyberChallenge" 
-      Dove una volta superate le selezioni ho avuto l'opportunità di far parte del team rappresentante del  **Politecnico di Bari** dopo aver superato la gara locale ed essermi posizonato 2°
-      Conclusa al 9° Posto tra le 40 università e politecnici partecipanti da tutta italia (come squadra con piu attacchi andati a buon fine o flag estratte)
----
+Tutto è iniziato con una semplice domanda: *"Come funziona davvero un computer?"*  
+Quella curiosità si è trasformata in un percorso pratico e quotidiano, fatto di studio, sperimentazione e voglia di capire sempre più a fondo ciò che rende i sistemi sicuri… o vulnerabili.
 
-## Cosa faccio?
+Attualmente frequento un **ITS con indirizzo Cybersecurity Expert** e nel **2024** ho partecipato a due competizioni nazionali:
 
-Studio e sperimento:
-- Binary exploitation e memory corruption (con Ghidra, pwndbg, ecc.)
-- Reverse engineering, privilege escalation e APT simulation
-- Sviluppo di tool personali per analisi, automazione e sicurezza
-- Architettura di sistemi, kernel development, e hardening
+- 🏆 **CyberChallenge.IT** – Dopo essermi classificato **2° alla gara locale**, sono entrato nel team del **Politecnico di Bari**, con cui ci siamo posizionati **9° su 40** squadre universitarie. Siamo stati il team con **più attacchi riusciti**.
+- 🛡️ **ITS-CyberChallenge** – Ho ricoperto il ruolo di **capitano** della mia squadra, portandola fino alle **finali nazionali**.
+
+Sono particolarmente affascinato dal mondo dei **malware** e punto a specializzarmi in questo ambito **dal lato difensivo** (Blue Team), imparando a riconoscere e contrastare le tecniche più avanzate usate da attaccanti reali.
 
 ---
 
-## 📚 Perché questo blog
+## 🔬 Cosa faccio
 
-Scrivo per:
-- **Imparare meglio** ciò che studio
-- **Condividere con semplicità** anche concetti complessi
-- Creare un punto di riferimento personale pubblico
+Mi dedico alla cybersecurity unendo **teoria e pratica**, ogni giorno. È il mio campo da gioco.
+
+### 🕳️ Analisi delle vulnerabilità  
+Studio come i programmi possono avere **falle di sicurezza**.  
+Uso strumenti come **Ghidra** (per analizzare il codice) e **pwndbg** (per esplorare la memoria) per "smontare" i binari e capire dove e come si possono compromettere.
+
+### 🎯 Simulazioni di attacco  
+Simulo attacchi seguendo il modello **MITRE ATT&CK**, passo dopo passo, per capire il comportamento reale di un attaccante.
+
+Durante queste simulazioni utilizzo:
+- 🔍 **Nmap**, **Masscan** – scansioni e mappatura di rete  
+- 🌐 **Dig**, **Nslookup** – analisi DNS/IP  
+- 🗂️ **Gobuster**, **Nikto**, **WhatWeb** – scoperta directory e tecnologie  
+- 🧪 **Burp Suite** – analisi manuale del traffico web  
+- ⚔️ **Strumenti C2** – per testare movimenti laterali e persistenza
+
+### 🛡️ Simulazioni di difesa  
+Creo ambienti **Blue Team** configurando strumenti come **Splunk Free**, per monitorare e rilevare le tracce lasciate dagli attacchi che simulo.  
+Questo mi permette di allenarmi a intercettare comportamenti sospetti e affinare le strategie difensive.
+
+### ⚙️ Sviluppo di strumenti  
+Sviluppo **tool personalizzati** per analisi, automazione o studio, come:
+- logger di rete
+- reverse shell didattiche
+- script di scanning e raccolta informazioni
+
+### 🧱 Architettura dei sistemi  
+Studio in profondità i sistemi operativi fino a progettare un **kernel personale**, per comprendere cosa succede *sotto il cofano*.  
+Inoltre, mi occupo di **hardening Linux**, migliorando la sicurezza dell’intero sistema.
 
 ---
 
-## 🧠 Visione
+## ✍️ Perché questo blog
 
-Credo che comprendere davvero la cybersecurity significhi **saper costruire, attaccare e difendere**.  
-Il mio obiettivo è essere capace di creare, mettere in sicurezza e automatizzare qualsiasi sistema.
+Ho creato questo spazio per tre motivi principali:
+
+- 📚 **Imparare meglio** scrivendo, spiegando e riflettendo  
+- 🔓 **Rendere la cybersecurity accessibile**, anche a chi parte da zero  
+- 📘 **Documentare il mio percorso**: tool scoperti, esperimenti, progetti
+
+Questo blog è il mio laboratorio pubblico, la mia palestra mentale, e — spero — anche una risorsa utile per altri appassionati.
 
 ---
 
-> *"Comprendere a fondo per semplificare. Comunicare per evolvere."*
+## 🧠 La mia visione
+
+Per me, fare cybersecurity significa unire tre pilastri fondamentali:
+
+- **Costruire** un sistema robusto  
+- **Attaccarlo** con consapevolezza per scoprirne i punti deboli  
+- **Difenderlo** con metodo e visione strategica
+
+Il mio obiettivo è diventare capace di **creare, proteggere e automatizzare qualsiasi sistema informatico**.  
+Per riuscirci, esploro ogni livello: dai registri della CPU fino all’intelligenza artificiale.
+
+---
+
+
