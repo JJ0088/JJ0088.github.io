@@ -9,21 +9,21 @@ theme: jekyll-theme-chirpy
 lang: it
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/Rome
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: JJ-Blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: CyberSecurity-Expert | PenTester # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Ciao! Questo è il mio Blog personale in cui parlerò del mondo cyber
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://jj0088.github.io"
 
 github:
   username: JJ0088 # change to your GitHub username
@@ -42,8 +42,7 @@ social:
     - https://github.com/JJ0088 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
-
+    - https://www.linkedin.com/in/luigi-rutigliani
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
@@ -56,15 +55,15 @@ webmaster_verifications:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-# Web Analytics Settings
+  # Web Analytics Setting
 analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+  id: # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
-    domain: # fill in your Umami domain
+  domain: # fill in your Umami domain
   matomo:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
@@ -75,7 +74,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+provider: # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
