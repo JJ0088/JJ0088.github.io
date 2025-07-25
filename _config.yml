@@ -103,7 +103,6 @@ avatar: assets/img/Profile_pic.jpg
 social_preview_image: # string, local or CORS resources
 # Include custom <head>
 include:
-  - _includes/head-custom.html
 
 # boolean type, the global switch for TOC in posts.
 toc: true
