@@ -1,5 +1,5 @@
 ---
-title: Benvenuto nel mio blog di Cybersecurity 🎓
+title: Benvenuto nel mio blog di Cybersecurity 🛡️
 date: 2025-07-24 18:00:00 +0200
 categories: [Benvenuto]
 tags: [cybersecurity, blog, studio, comunicazione]
